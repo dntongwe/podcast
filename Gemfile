@@ -9,7 +9,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise', '~> 3.4.1'
-gem 'paperclip', '~> 4.2.1'
+gem 'paperclip', '~> 5.2.0'
 gem 'aws-sdk', '< 2.0'
 gem 'will_paginate', '~> 3.0.7'
 
